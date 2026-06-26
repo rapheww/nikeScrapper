@@ -17,4 +17,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Lance ton bot Discord
-CMD ["python3", "bot.py"]
+CMD ["python3", "nike/bot.py"]
